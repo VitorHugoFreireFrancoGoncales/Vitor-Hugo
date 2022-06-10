@@ -9,10 +9,14 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="VitorHugoFreireFrancoGoncales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="VitorHugoFreireFrancoGoncales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="VitorHugoFreireFrancoGoncales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="VitorHugoFreireFrancoGoncales-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="VitorHugoFreireFrancoGoncales-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  <img align="center" alt="https://www.php.net/" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
   <img align="center" alt="VitorHugoFreireFrancoGoncales-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
