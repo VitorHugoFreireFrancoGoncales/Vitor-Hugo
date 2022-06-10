@@ -4,7 +4,9 @@
   <a href="https://github.com/VitorHugoFreireFrancoGoncales">
   <img height="20%" src="https://github-readme-stats.vercel.app/api?username=VitorHugoFreireFrancoGoncales&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
     <br>
+    <a href=https://github.com/VitorHugoFreireFrancoGoncales?tab=repositories">
   <img height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugoFreireFrancoGoncales&layout=compact&langs_count=7&theme=white"/>
+  </a>
 </div>
   
 <div style="display: inline_block" align="center"><br>
